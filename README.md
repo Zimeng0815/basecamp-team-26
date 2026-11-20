@@ -1,7 +1,7 @@
 # Basecamp-team-26
 ## Can vision transformers predict human visual attention?
 
-## Citation
+# Citation
 
 ```bibtex
 @article{zanca2023contrastive,
